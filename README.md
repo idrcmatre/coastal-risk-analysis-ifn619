@@ -8,7 +8,7 @@ This project analyzes coastal wave and tide data from the Queensland Government 
 
 > How can we identify when and where coastal conditions pose the highest emergency risk?
 
-This project combines wave and storm tide data from **Mooloolaba** and nearby SE Queensland stations during a recent 7-day period. The analysis evaluates **combined risk timing**, overlaps in significant wave height and water level, and links observations to **High Astronomical Tide (HAT)** thresholds.
+This project combines wave and storm tide data from SE Queensland stations such as Gild Coast, Brisbane, and Sunshine Coast during a recent 7-day period. The analysis evaluates **combined risk timing**, overlaps in significant wave height and water level, and links observations to **High Astronomical Tide (HAT)** thresholds.
 
 ---
 
